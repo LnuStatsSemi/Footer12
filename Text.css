@@ -1,0 +1,108 @@
+
+#Haklar 
+{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: #111;
+    height: auto;
+    width: 100vw;
+    padding-top: 25px;
+    color: #fff;
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+}
+
+#üst 
+{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgb(24, 23, 23);
+    height: auto;
+    width: 100vw;
+    height: 22vw;
+    padding-top: 18px;
+    color: #fff;
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+    font-size: 23px;
+}
+
+
+
+
+#adana
+{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgb(25, 25, 25);
+    height: auto;
+    width: 100vw;
+    padding-top: 300px;
+    color: #fff;
+}
+
+#örnek  
+{
+   position: absolute;
+   top: 630px;
+   right: 50px;
+   left: 50px;
+   font-size: 30px;
+   font-family: 'Open Sans', sans-serif;
+   color: whitesmoke;
+} 
+
+#anamenü
+{
+    position: absolute;
+    top: 630px;
+    right: 50px;
+    left: 890px;
+    font-size: 30px;
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(223, 219, 219);
+ } 
+
+#analiste 
+{
+    position: absolute;
+    top: 700px;
+    right: 50px;
+    left: 855px;
+    font-size: 25px;
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(162, 161, 161);
+    list-style-type: none;
+}
+ 
+
+#iletişimliste 
+{
+    position: absolute;
+    top: 700px;
+    right: 50px;
+    left: 1650px;
+    font-size: 25px;
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(162, 161, 161);
+    list-style-type: none;
+}
+
+
+ #iletişim
+ {
+    position: absolute;
+    top: 630px;
+    right: 50px;
+    left: 1680px;
+    font-size: 30px;
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(223, 219, 219);
+ } 
+
